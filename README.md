@@ -15,3 +15,5 @@ Extended from example of Wagied Davids : http://w2davids.wordpress.com/android-s
  - Disable selecting dates before current date
  - Customize cell colors
  - Listen to date selection events
+
+![picture alt](https://raw.github.com/valven/android-calendar/master/screenshots/device-2013-06-21-181013.png "Screenshot from emulator")
