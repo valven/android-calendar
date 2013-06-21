@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/header_cell"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/calendar_cell_height"
+    android:layout_gravity="center"
+    android:background="@drawable/calendar_cell_border"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:textColor="@android:color/black" >
+
+</Button>

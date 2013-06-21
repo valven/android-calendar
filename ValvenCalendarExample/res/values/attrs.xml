@@ -1,0 +1,12 @@
+<resources>
+  <declare-styleable name="Calendar">
+    <attr name="selectBeforeToday" format="boolean"></attr>
+    <attr name="todayBackgroundColor" format="color" />
+    <attr name="todayTextColor" format="color" />
+    <attr name="selectedBackgroundColor" format="color" />
+    <attr name="selectedTextColor" format="color" />
+    <attr name="defaultTextColor" format="color" />
+    <attr name="disabledTextColor" format="color" />
+    <attr name="otherTextColor" format="color" />
+  </declare-styleable>
+</resources>
